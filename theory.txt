@@ -1,0 +1,47 @@
+
+
+
+for (initialization; range/condition; increment/decrement){
+    //Statement...
+    for(initialization; range/condition; increment/decrement){
+
+    }
+}
+
+
+SectionA: 88, 32, 56, 79, 93
+SectionB: 65, 24, 71, 89, 99
+SectionC: 44, 76, 29, 81, 95
+
+let marks = [
+    [88, 32, 56, 79, 93] 0=A
+    [65, 24, 71, 89, 99] 1=B
+    [44, 76, 29, 81, 95] 2=C
+];
+
+marks[0][0]
+marks[0][1]
+marks[0][2]
+marks[0][3]
+marks[0][4]
+
+marks[1][0]
+marks[1][1]
+marks[1][2]
+marks[1][3]
+marks[1][4]
+
+marks[2][0]
+marks[2][1]
+marks[2][2]
+marks[2][3]
+marks[2][4]
+
+================function============
+
+function functionName ()
+{
+    //body...
+}
+
+functionName ();
